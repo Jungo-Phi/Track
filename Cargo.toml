@@ -1,0 +1,13 @@
+[package]
+name = "arnaud_physics_engine"
+version = "0.1.0"
+edition = "2021"
+authors = ["Arnaud Jungo <arnaud.jungo@hes-so.ch>"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+eframe = "0.22.0"
+nalgebra = "0.32.3"
+ndarray = "0.15.6"
+dyn-clone = "1.0.11"
